@@ -15,3 +15,5 @@
 	
 	6.  5-listfilesdigitonly : this script display the content of a current directory in long format with user and group IDs	    displayed numerically and hidden files.
 
+	7.  6-firstdirectory : this script create directory my_first_directory in /tmp.
+
