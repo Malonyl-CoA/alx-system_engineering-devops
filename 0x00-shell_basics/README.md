@@ -21,4 +21,6 @@
 
 	9.  8-firstdelete : this script delete file betty form /tmp/my_first_directory.
 
+	10. 9-firstdirdeletion : this script deletes directory /tmp/my_first_directory.
+
 
