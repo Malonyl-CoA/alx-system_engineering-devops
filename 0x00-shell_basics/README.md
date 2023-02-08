@@ -17,6 +17,6 @@
 
 	7.  6-firstdirectory : this script create directory my_first_directory in /tmp.
 
-	8.  7-movethatfile : this  script create a file betty inside my_first_directory in /tmp.
+	8.  7-movethatfile : this  script move file betty inside my_first_directory in /tmp.
 
 
