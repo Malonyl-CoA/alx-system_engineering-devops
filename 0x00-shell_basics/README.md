@@ -10,3 +10,5 @@
 	3.  2-bring_me_home :this script will change the working directory to home directory once executed.
 
 	4.  3-listfiles : this script will display the list of files in the working directory in long-format.
+
+	5.  4-listmorefiles : this script will display all file even those that are hidden in current directory in long-format.
