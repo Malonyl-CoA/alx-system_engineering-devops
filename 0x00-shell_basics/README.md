@@ -25,4 +25,6 @@
 
 	11. 10-back : this script take you back to previous directory.
 
+	12. 11-lists : this script list content of more than one directory
+
 
