@@ -23,4 +23,6 @@
 
 	10. 9-firstdirdeletion : this script deletes directory /tmp/my_first_directory.
 
+	11. 10-back : this script take you back to previous directory.
+
 
