@@ -3,5 +3,10 @@
 
 #This file contain discription for different shell script and how they have been put to use in this project.
 
-		1.  0-current_working_directory : this script once executed it will print an absolute path of the working directory.
-		2.  1-listit : this script once executed it will dispaly the content list of the current directory. 
+	1.  0-current_working_directory : this script once executed it will print an absolute path of the working directory.
+
+	2.  1-listit : this script once executed it will dispaly the content list of the current directory.
+	
+	3.  2-bring_me_home :this script will change the working directory to home directory once executed.
+
+	4.  3-listfiles : this script will display the list of files in the working directory in long-format.
