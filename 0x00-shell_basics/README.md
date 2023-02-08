@@ -19,4 +19,6 @@
 
 	8.  7-movethatfile : this  script move file betty inside my_first_directory in /tmp.
 
+	9.  8-firstdelete : this script delete file betty form /tmp/my_first_directory.
+
 
