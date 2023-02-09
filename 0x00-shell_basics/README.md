@@ -25,6 +25,34 @@
 
 	11. 10-back : this script take you back to previous directory.
 
-	12. 11-lists : this script list content of more than one directory
+	12. 11-lists : this script list content of more than one directory.
 
+	13. 12-file_type: this script contained command to identify type of file in agiven directory.
+
+	14. 13-symbolic_link: this script contained acommandfunction to create symbolic or soft link.
+
+	15. 14-copy_html: this script contain the command to copy all file of a certain type to anothe dir of file in this case 	    I copied all html files from one folder to anther.
+
+	16. 100-lets_move :this script contain command that moves all files beginning with an uppercase letter to another direct	    ory.
+
+	17. 101-clean_emacs : this script contains command that deletes all emmacs backupfiles ending with ~
+
+	18. 102-tree :this script contain command to create atree of directories appended one another.
+
+	19. 103-commas: this script   Write a command that lists all the files and directories of the current directory, separat	    ed by commas (,).directory names should end with a slash (/) Files and directories starting with a dot (.) should be 	    listed The listing should be alpha ordered, except for the directories . and .. which should be listed at the very  	    beginning Only digits and letters are used to sort; Digits should come first You can assume that all the files we wi	    ll test with will have at least one letter or one digit The listing should end with a new line 
+
+	20. school.mgc :the question was "Create a magic file school.mgc that can be used with the command file to detect School 	    data files. School data files always contain the string SCHOOL at offset 0." this task was alittle bit trickier that 	    other task here is the syntax to solve it 
+
+
+				0 string SCHOOL School data
+				!:mime School
+
+	   the execute the following command to complete the task and push the results
+
+				file -C -m school.mgc 
+
+
+#Author : KASSIMU BORI
+
+#Upcoming software engineer.
 
