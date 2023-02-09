@@ -13,7 +13,7 @@
 
 	5.  4-listmorefiles : this script will display all file even those that are hidden in current directory in long-format.
 	
-	6.  5-listfilesdigitonly : this script display the content of a current directory in long format with user and group IDs	    displayed numerically and hidden files.
+	6.  5-listfilesdigitonly : this script display the content of a current directory in long format with user and group IDs displayed numerically and hidden 		files.
 
 	7.  6-firstdirectory : this script create directory my_first_directory in /tmp.
 
@@ -31,9 +31,9 @@
 
 	14. 13-symbolic_link: this script contained acommandfunction to create symbolic or soft link.
 
-	15. 14-copy_html: this script contain the command to copy all file of a certain type to anothe dir of file in this case 	    I copied all html files from one folder to anther.
+	15. 14-copy_html: this script contain the command to copy all file of a certain type to anothe dir of file in this case I copied all html files from one 		folder to anther.
 
-	16. 100-lets_move :this script contain command that moves all files beginning with an uppercase letter to another direct	    ory.
+	16. 100-lets_move :this script contain command that moves all files beginning with an uppercase letter to another directory.
 
 	17. 101-clean_emacs : this script contains command that deletes all emmacs backupfiles ending with ~
 
